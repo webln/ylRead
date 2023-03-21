@@ -22,7 +22,7 @@
 		text-overflow: ellipsis;
 		display: -webkit-box;
 		-webkit-box-orient: vertical;
-		-webkit-line-clamp: 4; /* 超出几行省略 */
+		-webkit-line-clamp: 4; 
 		overflow: hidden;
 	}
 	
